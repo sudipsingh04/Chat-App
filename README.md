@@ -1,6 +1,10 @@
-# vue-chat
+# Chat Application
 
-> A Vue.js project
+> A Vue.js project in which we can chat with any memebers around the globe.
+
+> Used ```Vue.js``` as frontend and ```Firestore``` as backend.
+
+> Live Url: ```https://sudip-chat.web.app/```
 
 ## Build Setup
 
